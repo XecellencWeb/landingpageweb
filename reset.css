@@ -23,7 +23,7 @@
 	/* sizes */
 
 	--size-big: clamp(1.5rem, 5vw ,2rem );
-	--sections-height: 80vh;
+	--sections-height: 70svh;
 
 	/* for ease */
 
