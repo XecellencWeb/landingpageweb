@@ -124,7 +124,8 @@
 
 
 .about,.suppliers,.showcase,.cheeseboard,.contact{
-    height: var(--sections-height);
+    min-height: var(--sections-height);
+    padding-block: 2rem;
 }
 
 
